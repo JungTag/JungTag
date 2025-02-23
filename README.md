@@ -13,7 +13,7 @@
 
 ## Experience
 - **KakaoPay Insurance** (2024.06 - Present)  
-  - Developing and operating payment and settlement systems  
+  - Developing and operating payment and disubrsement systems  
 - **Gmarket** (2022.01 - 2024.06)  
   - Built high-traffic discount and coupon APIs  
   - Designed and optimized caching strategies using Redis  

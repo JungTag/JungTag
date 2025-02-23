@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Yeongtaek Yoon (윤영택)
 
-<!--
-**JungTag/JungTag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+- Backend Developer | Kotlin & Java Enthusiast  
+- Experienced in building scalable and high-performance backend systems  
+- Passionate about system architecture, caching strategies, and distributed systems  
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Backend:** Kotlin, Java, Spring Boot, Spring Webflux  
+- **Database:** MySQL, Oracle, MSSQL, Redis  
+- **Infra:** AWS, Kubernetes, Kafka, ElasticSearch, Docker  
+- **Testing & Performance:** JUnit5, Kotest, JMeter, nGrinder  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- **KakaoPay Insurance** (2024.06 - Present)  
+  - Developing and operating payment and settlement systems  
+- **Gmarket** (2022.01 - 2024.06)  
+  - Built high-traffic discount and coupon APIs  
+  - Designed and optimized caching strategies using Redis  
+  - Improved API performance and scalability  

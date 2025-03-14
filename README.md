@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yeongtaek Yoon (윤영택)
+# Hi there 👋 I'm Yeongtaek Yun (윤영택)
 
 ## Introduction
 - Backend Developer | Kotlin & Java Enthusiast  

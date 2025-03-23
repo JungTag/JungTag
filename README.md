@@ -14,7 +14,7 @@
 ## Experience
 - **Naver (2025.03 – Present)**  
   - Developing and maintaining Naver Shopping order history system
-- **KakaoPay Insurance (2024.06 – Present)**  
+- **KakaoPay Insurance (2024.06 – 2025.03)**  
   - Built insurance gift system with secure session validation  
   - Designed deposit-based insurance payment flow  
   - Automated failure recovery for payout transactions
